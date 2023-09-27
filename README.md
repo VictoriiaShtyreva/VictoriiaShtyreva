@@ -9,9 +9,7 @@ I'm proficient in a wide range of web development tools and technologies:
 - HTML
 - CSS and CSS Preprocessors (SCSS/LESS)
 - JavaScript
-- React.js
-- React Router
-- Redux
+- React.js | React Router | Redux
 - RESTful services/APIs
 - TypeScript
 - UI/UX Principles
