@@ -23,7 +23,7 @@ I'm proficient in a wide range of web development tools and technologies:
 
 #### Project: [Stafftribes](https://stafftribes.com/about)
 **Technology Stack:**
-- React.js | React Router | Redux | Material UI | Meteor.js | Stripe API
+- React.js | React Router | Redux | Material UI | Meteor.js | Stripe API | Bitbucket | Jira | Confluence
 
 **Key Responsibilities:**
 - Designing and implementing project features in compliance with design specifications and bug fixing using React.js.
