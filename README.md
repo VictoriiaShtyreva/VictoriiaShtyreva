@@ -21,14 +21,9 @@ I'm proficient in a wide range of web development tools and technologies:
 ### Unfair Advantage | Frontend Developer
 *Feb. 2023 – Present*
 
-#### Project: Sports Network
+#### Project: [Stafftribes](https://stafftribes.com/about)
 **Technology Stack:**
-- React.js
-- React Router
-- Redux
-- Material UI
-- Meteor.js
-- Stripe API
+- React.js | React Router | Redux | Material UI | Meteor.js | Stripe API
 
 **Key Responsibilities:**
 - Designing and implementing project features in compliance with design specifications and bug fixing using React.js.
