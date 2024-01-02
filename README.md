@@ -19,7 +19,7 @@ I'm proficient in a wide range of web development tools and technologies:
 ## Work Experience
 
 ### Unfair Advantage | Frontend Developer
-*Feb. 2023 – Present*
+*Feb. 2023 – Jan. 2024*
 
 #### Project: [Stafftribes](https://stafftribes.com/about)
 **Technology Stack:**
