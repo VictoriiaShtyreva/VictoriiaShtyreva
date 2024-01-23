@@ -42,4 +42,4 @@ I'm proficient in a wide range of web development tools and technologies:
   ## Contact Information
 
 - 📧 Email: vikatori1409801@gmail.com
-- 💼 LinkedIn: [Viktoriia Shtyreva](https://www.linkedin.com/in/viktorii-ashtyreva/)
+- 💼 LinkedIn: [Viktoriia Shtyreva](https://www.linkedin.com/in/viktoriiashtyreva/)
