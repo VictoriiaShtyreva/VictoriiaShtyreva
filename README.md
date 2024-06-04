@@ -19,14 +19,14 @@
 
 ### Fullstack Project: QuickMart
 
-The project is an integral part of my capstone final project of the Full Stack Program at [Integrify](https://www.integrify.io/). It is the [backend repository](https://github.com/VictoriiaShtyreva/Backend-QuickMartEcommerce?tab=readme-ov-file) of an e-commerce application that showcases the capabilities which online retailers operate. The data is retrieved and can be created, deleted, etc. through an REST API, an API which is running on ASP. NET Core. The application is passed with user authentication selected roles for the user. Registering as a customer gives you the liberty to create an order, manage your history, and review a product. The administrator can do CRUD operations on the products, users, and all the orders from his dashboard too.
+The project is an integral part of my capstone final project of the Full Stack Program at [Integrify](https://www.integrify.io/). The [backend repository](https://github.com/VictoriiaShtyreva/Backend-QuickMartEcommerce?tab=readme-ov-file) of an e-commerce application that showcases the capabilities with which online retailers operate. The data is retrieved and can be created, deleted, etc. through an REST API, an API which is running on ASP. NET Core. The application is passed with user authentication selected roles for the user. Registering as a customer gives you the liberty to create an order, manage your history, and review a product. The administrator can do CRUD operations on the products, users, and all the orders from his dashboard too.
 
 - **Frontend:** TypeScript, React, Redux Toolkit, React Router, Material UI, Jest
 - **Backend:** ASP.NET Core, Entity Framework Core, PostgreSQL, Cloudinary, Stripe, Docker
 
 The frontend of the QuickMart e-commerce project is designed to provide a user-friendly shopping experience, allowing customers to browse, select, and purchase products. Built using TypeScript, React, Redux Toolkit, React Router, and Material UI, it features a responsive design, user authentication, product sorting, and a wishlist. Admins can manage products, orders, and users. Integrated with Stripe for secure payments, it ensures a smooth and intuitive shopping process. The project is fully documented and deployed on Vercel.
 
-This repository contains only the backend code of the application. For the frontend implementation, please refer to the [frontend repository](https://github.com/VictoriiaShtyreva/Frontend-QuickMartEcommerce). You can explore the live deployment of my frontend e-commerce project by visiting [QuickMart](https://quick-mart-ecommerce.vercel.app/).
+For the frontend implementation, please refer to the [frontend repository](https://github.com/VictoriiaShtyreva/Frontend-QuickMartEcommerce). You can explore the live deployment of my frontend e-commerce project by visiting [QuickMart](https://quick-mart-ecommerce.vercel.app/).
 
 
 ### Unfair Advantage | Frontend Developer
