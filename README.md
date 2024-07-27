@@ -17,6 +17,13 @@
 - Currently enhancing my full stack development skills in Helsinki, Finland (Remote) through Integrify's intensive program. 
 - Training includes Frontend (HTML/CSS/SASS | JavaScript | TypeScript | React | Redux), Backend (C# | .NET | Database Design), DevOps, and Cloud Services (Azure).
 
+### Azure Project: Event Management System API
+The [Event Management System](https://github.com/VictoriiaShtyreva/EventManagementAPISystem) is a web application built with ASP.NET Core, Entity Framework Core, and PostgreSQL. 
+It includes:
+
+- User Authentication and Authorization: Managed using ASP.NET Core Identity, EntraID, and Microsoft Graph.
+- Integration with Azure Services: This is for storage and monitoring.
+
 ### Fullstack Project: QuickMart
 
 The project is an integral part of my capstone final project of the Full Stack Program at [Integrify](https://www.integrify.io/). The [backend repository](https://github.com/VictoriiaShtyreva/Backend-QuickMartEcommerce?tab=readme-ov-file) of an e-commerce application that showcases the capabilities with which online retailers operate. The data is retrieved and can be created, deleted, etc. through an REST API, an API which is running on ASP. NET Core. The application is passed with user authentication selected roles for the user. Registering as a customer gives you the liberty to create an order, manage your history, and review a product. The administrator can do CRUD operations on the products, users, and all the orders from his dashboard too.
