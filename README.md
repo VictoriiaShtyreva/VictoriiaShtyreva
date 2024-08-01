@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Viktoriia Shtyreva</h1>
-<h3 align="center">I'm a highly motivated, detail-oriented fullstack developer based in Helsinki, Finland. </h3>
-<h4 align="center">My passion lies in crafting responsive websites and continuously learning to enhance my skills. I thrive in collaborative team environments and am dedicated to contributing to meaningful projects.</h4>
+<h3 align="center">Passionate about technology and driven by detail, I am a Helsinki-based fullstack developer committed to delivering innovative and impactful solutions. </h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-</p>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> </p>
+
 
 ## Professional Summary
 
@@ -17,14 +17,14 @@
 - Currently enhancing my full stack development skills in Helsinki, Finland (Remote) through Integrify's intensive program. 
 - Training includes Frontend (HTML/CSS/SASS | JavaScript | TypeScript | React | Redux), Backend (C# | .NET | Database Design), DevOps, and Cloud Services (Azure).
 
-### Azure Project: Event Management System API
+#### Azure Project: Event Management System API
 The [Event Management System](https://github.com/VictoriiaShtyreva/EventManagementApiApp) is a web application built with ASP.NET Core, Entity Framework Core, and PostgreSQL. 
 It includes:
 
 - User Authentication and Authorization: Managed using ASP.NET Core Identity, EntraID, and Microsoft Graph.
 - Integration with Azure Services: This is for storage and monitoring.
 
-### Fullstack Project: QuickMart
+#### Fullstack Project: QuickMart
 
 The project is an integral part of my capstone final project of the Full Stack Program at [Integrify](https://www.integrify.io/). The [backend repository](https://github.com/VictoriiaShtyreva/Backend-QuickMartEcommerce?tab=readme-ov-file) of an e-commerce application that showcases the capabilities with which online retailers operate. The data is retrieved and can be created, deleted, etc. through an REST API, an API which is running on ASP. NET Core. The application is passed with user authentication selected roles for the user. Registering as a customer gives you the liberty to create an order, manage your history, and review a product. The administrator can do CRUD operations on the products, users, and all the orders from his dashboard too.
 
@@ -67,6 +67,8 @@ ____________
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=victoriiashtyreva&show_icons=true&locale=en&layout=compact" alt="victoriiashtyreva" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=victoriiashtyreva&show_icons=true&locale=en" alt="victoriiashtyreva" /></p>
+
+
 
 
 
