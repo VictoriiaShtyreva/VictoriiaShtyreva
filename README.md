@@ -18,7 +18,7 @@
 - Training includes Frontend (HTML/CSS/SASS | JavaScript | TypeScript | React | Redux), Backend (C# | .NET | Database Design), DevOps, and Cloud Services (Azure).
 
 ### Azure Project: Event Management System API
-The [Event Management System](https://github.com/VictoriiaShtyreva/EventManagementAPISystem) is a web application built with ASP.NET Core, Entity Framework Core, and PostgreSQL. 
+The [Event Management System](https://github.com/VictoriiaShtyreva/EventManagementApiApp) is a web application built with ASP.NET Core, Entity Framework Core, and PostgreSQL. 
 It includes:
 
 - User Authentication and Authorization: Managed using ASP.NET Core Identity, EntraID, and Microsoft Graph.
