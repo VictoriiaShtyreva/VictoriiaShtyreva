@@ -15,10 +15,18 @@
 
 ## Professional Summary
 
-### Integrify | FullStack Developer
-*Jan. 2024 - Present*
+### Grexel | Junior Software Developer
+*Oct. 2024 - Present*
 
-- Currently enhancing my full stack development skills in Helsinki, Finland (Remote) through Integrify's intensive program. 
+Located in Helsinki, Finland, my role at Grexel is focused on ensuring smooth project delivery and maximizing customer satisfaction. My responsibilities are split between:
+
+- **Project Management**: Overseeing project timelines, managing resources, and coordinating team efforts to keep projects on track and meet client expectations.
+- **Backend Feature Design**: Designing and developing backend features, prioritizing performance and scalability to support our customers' evolving needs.
+
+
+### Integrify | FullStack Developer
+*Jan. 2024 - Sep. 2024*
+
 - Training includes Frontend (HTML/CSS/SASS | JavaScript | TypeScript | React | Redux), Backend (C# | .NET | Database Design), DevOps, and Cloud Services (Azure).
 
 #### Azure Project: Event Management System API
@@ -34,8 +42,6 @@ The project is an integral part of my capstone final project of the Full Stack P
 
 - **Frontend:** TypeScript, React, Redux Toolkit, React Router, Material UI, Jest
 - **Backend:** ASP.NET Core, Entity Framework Core, PostgreSQL, Cloudinary, Stripe, Docker
-
-The frontend of the QuickMart e-commerce project is designed to provide a user-friendly shopping experience, allowing customers to browse, select, and purchase products. Built using TypeScript, React, Redux Toolkit, React Router, and Material UI, it features a responsive design, user authentication, product sorting, and a wishlist. Admins can manage products, orders, and users. Integrated with Stripe for secure payments, it ensures a smooth and intuitive shopping process. The project is fully documented and deployed on Vercel.
 
 For the frontend implementation, please refer to the [frontend repository](https://github.com/VictoriiaShtyreva/Frontend-QuickMartEcommerce). You can explore the live deployment of my frontend e-commerce project by visiting [QuickMart](https://quick-mart-ecommerce.vercel.app/).
 
