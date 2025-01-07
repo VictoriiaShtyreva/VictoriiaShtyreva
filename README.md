@@ -31,10 +31,6 @@ Located in Helsinki, Finland, my role at Grexel is focused on ensuring smooth pr
 
 #### Azure Project: Event Management System API
 The [Event Management System](https://github.com/VictoriiaShtyreva/EventManagementApiApp) is a web application built with ASP.NET Core, Entity Framework Core, and PostgreSQL. 
-It includes:
-
-- User Authentication and Authorization: Managed using ASP.NET Core Identity, EntraID, and Microsoft Graph.
-- Integration with Azure Services: This is for storage and monitoring.
 
 #### Fullstack Project: QuickMart
 
